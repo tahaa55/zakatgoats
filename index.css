@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(189, 182, 120);
+    display: grid;
+    place-items: center;
+    background-image: url(1104140900-1024x700.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    
+
+}
+div{
+    text-align: center;
+    margin-top: 150px;
+    
+    width: 400px;
+    border-radius: 15px;
+    border: solid 5px;
+    backdrop-filter: blur(15px);
+
+}
+h1{
+    font-size: 80px;
+    font-style: oblique;
+}
+input{
+    font-size: 30px;
+    font-style: oblique;
+    text-align: center;
+    border-radius: 15px;
+    border: solid 5px;
+    margin-top: 50px;
+    color: black;
+}
+button{
+    font-size: 30px;
+    border-radius: 15px;
+    border: solid 5px;
+    margin-top: 30px;
+}
